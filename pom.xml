@@ -3,4 +3,12 @@
   <groupId>7Soft</groupId>
   <artifactId>7Soft</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Taller/Modulo1</module>
+  	<module>Taller/Modulo2</module>
+  	<module>Taller/Modulo3</module>
+  	<module>Taller/Modulo4</module>
+  	<module>Taller/Modulo5</module>
+  </modules>
 </project>
